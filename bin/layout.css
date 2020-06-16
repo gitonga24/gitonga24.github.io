@@ -29,15 +29,8 @@ html {
 }
 
 #projects,
-h2,
-h4 {
+h2 {
     text-align: center;
-}
-
-#projects,
-li {
-    text-align: left;
-    padding-left: 20px;
 }
 
 #expSection {
